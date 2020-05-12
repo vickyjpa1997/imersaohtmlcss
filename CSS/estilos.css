@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://baixarpapeldeparede.com/web/wallpapers/wallpaper-hd-rick-and-morty-15/1920x1080.png);
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  .menu{
+    background-color: black;
+  }
+  a{
+    color: lightblue;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu li{
+    list-style: none;
+   
+  }
+  .site-subtitle,
+  .site-title{
+    color: lightblue;
+    text-align: center;
+  }
+  .site-subtitle{
+    font-style: italic;
+  }
